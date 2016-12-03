@@ -1,0 +1,13 @@
+Lab Order
+
+1. WiFiScan
+2. WiFiSimpleClient
+3. WiFiSimpleServer
+4. WiFiSimpleAPServer (Access Point)
+5. ThingSpeakUpdater
+6. ThingSpeakDHT
+7. SimpleLEDWebServer
+8. Simple2LEDWebServer
+9. WriteToGoogleSheetDHT
+10. InitalStateDHT
+11. IFTTTEmailTextDHT
